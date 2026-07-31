@@ -178,7 +178,7 @@ The Excel dashboard was designed for a non-technical management audience and inc
 Add the final dashboard image to the repository:
 
 
-![Online Retail Dashboard](images/dashboard.png)
+![Online Retail Dashboard](Images/dashboard.png)
 
 
 ## Validation Results
