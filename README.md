@@ -159,6 +159,8 @@ For each scenario, the workbook calculates revised sales revenue, revised cancel
 
 The highest-risk month was defined as the month with the lowest revised net revenue.
 
+---
+
 ## Dashboard
 
 The Excel dashboard was designed for a non-technical management audience and includes:
@@ -180,6 +182,8 @@ Add the final dashboard image to the repository:
 
 ![Online Retail Dashboard](Images/dashboard.png)
 
+
+---
 
 ## Validation Results
 
