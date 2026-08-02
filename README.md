@@ -244,9 +244,9 @@ online-retail-sales-analysis-excel/
 │
 ├── README.md
 ├── workbook/
-│   └── ID_MA7444_CW1_Resit.xlsx
+│   └── dataset.xlsx
 ├── audit-trail/
-│   └── ID_MA7444_CW1_Audit_Trail.pdf
+│   └── audit_Report.pdf
 ├── images/
 │   └── dashboard.png
 └── data/
@@ -297,7 +297,7 @@ The original dataset should not be uploaded if redistribution is restricted. Pro
 ## Author
 
 **Venkata Santosh Kumar Kornu**  
-MSc Data Science  
+MSc in Data Science  
 University of Leicester
 
 ## Academic Context
