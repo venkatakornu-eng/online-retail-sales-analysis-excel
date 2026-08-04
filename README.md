@@ -166,6 +166,14 @@ The highest-risk month was defined as the month with the lowest revised net reve
 ### Top 10 Customers by Sales Revenue
 ![Top 10 Customers by Sales Revenue](Images/pic2.png)
 
+- Customer 14646 generated the highest revenue at approximately £280,000, followed by customer 18102 at around £258,000. Customers 17450 and 16446 also made substantial contributions. This indicates that a relatively small number of high-value customers account for a significant share of total revenue.
+
+### Monthly Sales Performance: Revenue, Quantity and Invoice Count
+
+![Monthly Sales Performance](Images/pic1.png)
+
+- Sales performance reached its highest level in November 2011, with the greatest monthly revenue and quantity sold. October and September 2011 also performed strongly, suggesting increased demand toward the end of the year. Lower performance is visible in months such as February and April 2011. Revenue and quantity generally move together, indicating that higher sales volumes contribute directly to higher monthly revenue.
+
 ---
 
 ## Dashboard
