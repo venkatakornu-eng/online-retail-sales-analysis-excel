@@ -160,8 +160,9 @@ For each scenario, the workbook calculates revised sales revenue, revised cancel
 The highest-risk month was defined as the month with the lowest revised net revenue.
 
 ---
----
+
 ## Visualization
+
 
 ---
 
