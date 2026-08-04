@@ -163,6 +163,8 @@ The highest-risk month was defined as the month with the lowest revised net reve
 
 ## Visualization
 
+### Top 10 Customers by Sales Revenue
+![Top 10 Customers by Sales Revenue](Images/pic2.png)
 
 ---
 
